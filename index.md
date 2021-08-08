@@ -1,3 +1,3 @@
 ## Benvingut a aprendes.com
 
-Aviat aquí hi trobaràs continguts que permeteren fer l'aprenentatge d'algunes matèries del camp de les matemàtiques.
+Pròximament aquí hi trobaràs els texts i documents de matemàtiques publicats pel professor Miquel Àngel Perelló.
