@@ -1,3 +1,7 @@
 ## Benvingut a aprendes.com
 
-Pròximament aquí hi trobaràs els texts i documents de matemàtiques publicats pel professor Miquel Àngel Perelló.
+Apunts de preparació a la prova de Matemàtiques
+
+1. Anàlisi de funcions
+
+  * [Càlcul de límits i continuïtat](https://github.com/maperello/maperello.github.io/edit/main/funcTeo.pdf)
