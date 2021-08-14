@@ -1,10 +1,10 @@
-### Benvingut a aprendes.com
+# Benvingut a aprendes.com
 
 Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 ## Matemàtiques
 
-# Batxillerat
+### Batxillerat
 
 1. Primer curs
 2. Segon curs
@@ -12,7 +12,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 * [Càlcul de límits i continuïtat](https://github.com/maperello/maperello.github.io/edit/main/funcTeo.pdf)
 
-# Universitat
+### Universitat
 
 1. Álgebra Lineal
 2. Anàlisi Matemàtic
