@@ -1,7 +1,21 @@
-## Benvingut a aprendes.com
+### Benvingut a aprendes.com
 
-Apunts de preparació a la prova de Matemàtiques de Selectivitat
+Material didàctic publicat pel professor Miquel Àngel Perelló.
 
-1. Anàlisi de funcions
+## Matemàtiques
 
-  * [Càlcul de límits i continuïtat](https://github.com/maperello/maperello.github.io/edit/main/funcTeo.pdf)
+# Batxillerat
+
+1. Primer curs
+2. Segon curs
+3. Preparació prova Selectivitat
+
+* [Càlcul de límits i continuïtat](https://github.com/maperello/maperello.github.io/edit/main/funcTeo.pdf)
+
+# Universitat
+
+1. Álgebra Lineal
+2. Anàlisi Matemàtic
+3. Geometria lineal
+
+## Filosofia
