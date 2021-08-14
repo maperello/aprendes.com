@@ -1,6 +1,6 @@
 ## Benvingut a aprendes.com
 
-Apunts de preparació a la prova de Matemàtiques
+Apunts de preparació a la prova de Matemàtiques de Selectivitat
 
 1. Anàlisi de funcions
 
