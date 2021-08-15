@@ -1,4 +1,4 @@
-![aprendes Logo](https://github.com/maperello/maperello.github.io/blob/main/logo-aprendes.jpeg)
+![aprendes Logo](https://github.com/maperello/maperello.github.io/blob/main/logo-aprendes.jpg)
 
 # Benvingut a aprendes.com
 
