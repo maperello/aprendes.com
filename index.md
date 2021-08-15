@@ -1,3 +1,6 @@
+![aprendes Logo](https://github.com/maperello/maperello.github.io/edit/main/aprendes_logo.jpg)
+
+
 # Benvingut a aprendes.com
 
 Material didàctic publicat pel professor Miquel Àngel Perelló.
