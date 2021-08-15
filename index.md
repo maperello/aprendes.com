@@ -1,5 +1,3 @@
-![aprendes Logo](https://github.com/maperello/maperello.github.io/blob/main/logo-aprendes.jpg)
-
 # Benvingut a aprendes.com
 
 Material didàctic publicat pel professor Miquel Àngel Perelló.
