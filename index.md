@@ -1,13 +1,13 @@
 Material didàctic publicat pel professor Miquel Àngel Perelló.
 
-# Matemàtiques
+# Matemàtiques Batxillerat
 
-## I. Batxillerat Científic-Tecnològic
+## I. Científic-Tecnològic
 
 1. Primer any
 2. Segon any
 
-## II. Batxillerat Ciències Socials
+## II. Ciències Socials
 
 1. Primer any
 2. Segon any
@@ -16,10 +16,10 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 * [Càlcul de límits i continuïtat](https://github.com/maperello/maperello.github.io/edit/main/funcTeo.pdf)
 
-## Universitat
+# Matemàtiques Universitat
 
 1. Álgebra Lineal
 2. Anàlisi Matemàtic
 3. Geometria lineal
 
-# Refexions sobre textos de Filosofia
+# Reflexions filosòfiques
