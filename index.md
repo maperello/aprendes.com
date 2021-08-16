@@ -1,6 +1,6 @@
 Material didàctic publicat pel professor Miquel Àngel Perelló.
 
-# Matemàtiques Batxillerat
+# Matemàtiques de Batxillerat
 
 ## I. Científic-Tecnològic
 
@@ -16,9 +16,9 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 * [Càlcul de límits i continuïtat](https://github.com/maperello/maperello.github.io/edit/main/funcTeo.pdf)
 
-# Matemàtiques Universitat
+# Matemàtiques d'Universitat
 
-1. Álgebra Lineal
+1. Àlgebra Lineal
 2. Anàlisi Matemàtic
 3. Geometria lineal
 
