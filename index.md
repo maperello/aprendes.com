@@ -4,11 +4,17 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 ## Matemàtiques
 
-### Batxillerat
+### I. Batxillerat Científic-Tecnològic
 
-1. Primer curs
-2. Segon curs
-3. Preparació prova Selectivitat
+1. Primer any
+2. Segon any
+
+### II. Batxillerat Ciències Socials
+
+1. Primer any
+2. Segon any
+
+### III. Preparació Prova Selectivitat
 
 * [Càlcul de límits i continuïtat](https://github.com/maperello/maperello.github.io/edit/main/funcTeo.pdf)
 
@@ -18,4 +24,4 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 2. Anàlisi Matemàtic
 3. Geometria lineal
 
-## Filosofia
+## Refexions sobre textos de Filosofia
