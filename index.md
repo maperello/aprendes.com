@@ -4,12 +4,12 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 ## I. Científic-Tecnològic
 
-1. Primer any
+1. [Primer any](https://github.com/maperello/1batciencies/blob/gh-pages/index.md)
 2. Segon any
 
 ## II. Ciències Socials
 
-1. Primer any
+1. [Primer any](https://github.com/maperello/1batsocial/blob/gh-pages/index.md)
 2. Segon any
 
 ## III. Preparació Prova Selectivitat
