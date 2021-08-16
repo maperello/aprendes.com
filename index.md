@@ -5,7 +5,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 ## I. Científic-Tecnològic
 
 1. [Primer any](https://github.com/maperello/1batciencies/blob/gh-pages/index.md)
-2. Segon any
+2. [Segon any](https://github.com/maperello/2batciencies/blob/gh-pages/index.md)
 
 ## II. Ciències Socials
 
