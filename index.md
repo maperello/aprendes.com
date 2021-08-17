@@ -22,5 +22,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 1. Àlgebra Lineal
 2. Anàlisi Matemàtic
 3. Geometria lineal
+4. Equacions Diferencials
+5. Estadística Inferencial
 
 # Reflexions filosòfiques
