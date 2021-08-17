@@ -14,8 +14,8 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 ## III. Preparació Prova Selectivitat
 
-1. Científic-Tecnològic
-2. Social
+1. [Científic-Tecnològic](https://github.com/maperello/selecien/blob/gh-pages/index.md)
+2. [Social](https://github.com/maperello/selecsoc/blob/gh-pages/index.md)
 
 # Matemàtiques d'Universitat
 
