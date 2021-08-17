@@ -10,7 +10,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 ## II. Ciències Socials
 
 1. [Primer any](https://github.com/maperello/1batsocial/blob/gh-pages/index.md)
-2. Segon any
+2. [Segon any](https://github.com/maperello/2batsocial/blob/gh-pages/index.md)
 
 ## III. Preparació Prova Selectivitat
 
