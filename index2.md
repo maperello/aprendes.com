@@ -18,7 +18,7 @@
 16. Estadística descriptiva
 18. Combinatòria i probabilitats
 
-<embed src="https://github.com/maperello/1batciencies/raw/gh-pages/log-dem.pdf" type="appiclation/pdf">
-
+{% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" %}
+https://github.com/maperello/1batciencies/raw/gh-pages/log-dem.pdf
 
 
