@@ -1,6 +1,6 @@
 # Matemàtiques 1r batxillerat científic-tecnològic
 ## Primer any
-#Continguts
+# Continguts
 
 1. [Lògica i demostració](log_dem.md)
 2. [Els nombres reals](reals.md)
