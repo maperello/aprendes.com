@@ -1,4 +1,6 @@
-# Índex
+# Batxillerat Científic-Tecnològic
+## Matemàtiques
+### Continguts de 1r any:
 
 1. [Lògica i demostració](log_dem.md)
 2. [Els nombres reals](reals.md)
@@ -17,3 +19,7 @@
 15. Introducció al concepte de derivada d'una funció
 16. Estadística descriptiva
 18. Combinatòria i probabilitats
+
+
+
+<object data="{{ site.url }}{{ site.baseurl }}/batx/log-dem.pdf" width="100%" type="application/pdf"></object>
