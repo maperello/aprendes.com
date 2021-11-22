@@ -1,8 +1,4 @@
-# Batxillerat Científic-Tecnològic
-
-## Matemàtiques
-
-### Continguts de 1r any:
+# Continguts
 
 1. Lògica i demostració
 2. Els nombres reals
