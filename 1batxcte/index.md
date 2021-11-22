@@ -2,9 +2,9 @@
 ## Matemàtiques
 ### Continguts de 1r any:
 
-1. [Lògica i demostració](log_dem.md)
-2. [Els nombres reals](reals.md)
-3. [Potències i arrels](pot_arrel.md)
+1. Lògica i demostració
+2. Els nombres reals
+3. Potències i arrels
 4. Polinomis
 5. Equacions i sistemes d'equacions
 6. Inequacions i sistemes d'inequacions

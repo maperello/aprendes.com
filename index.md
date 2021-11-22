@@ -4,20 +4,20 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 ## I. Científic-Tecnològic
 
-1. [Primer any](https://github.com/maperello/aprendes.com/blob/main/index1batctec.md)
-2. [Primer any](index2.md)
-3. [Primer any](batx/index.md)
-4. [Segon any](https://github.com/maperello/2batciencies/blob/gh-pages/index.md)
+1. Primer any
+2. Primer any
+3. Primer any
+4. Segon any
 
 ## II. Ciències Socials
 
-1. [Primer any](https://github.com/maperello/1batsocial/blob/gh-pages/index.md)
-2. [Segon any](https://github.com/maperello/2batsocial/blob/gh-pages/index.md)
+1. Primer any
+2. Segon any
 
 ## III. Preparació Prova Selectivitat
 
-1. [Científic-Tecnològic](https://github.com/maperello/selecien/blob/gh-pages/index.md)
-2. [Social](https://github.com/maperello/selecsoc/blob/gh-pages/index.md)
+1. Científic-Tecnològic
+2. Social
 
 # Matemàtiques d'Universitat
 
