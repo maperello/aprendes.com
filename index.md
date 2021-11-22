@@ -5,7 +5,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 ## I. Científic-Tecnològic
 
 1. [Primer any](1batxcte/index.md)
-2. [Segon any](index2.md)
+2. Segon any
 
 ## II. Ciències Socials
 
