@@ -4,7 +4,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 ## I. Científic-Tecnològic
 
-1. [Primer any](https://github.com/maperello/aprendes.com/blob/main/1batxcte/index.md)
+1. [Primer any](1batxcte/index.md)
 2. [Segon any](index2.md)
 
 ## II. Ciències Socials
