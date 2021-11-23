@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: "aprendes.com"
+plugins:
+  - jekyll-pdf-embed 
