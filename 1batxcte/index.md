@@ -1,4 +1,7 @@
-_config.yml
+---
+layout: post
+title: Matemàtiques
+---
 
 # Continguts
 
