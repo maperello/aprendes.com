@@ -1,9 +1,8 @@
 ---
 title: Matemàtiques de Batxillerat Científic-Tecnològic
-Subtitle: Primer Any
 ---
 
-# Continguts
+# Continguts 1r Any
 
 1. Lògica i demostració
 2. Els nombres reals
