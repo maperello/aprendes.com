@@ -1,6 +1,7 @@
 ---
 title: Matemàtiques de Batxillerat Científic-Tecnològic
 description: Matemàtiques de 1r de Batxillerat Científic-Tecnològic
+
 ---
 
 # Continguts de 1r Any
