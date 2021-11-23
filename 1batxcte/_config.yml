@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: "aprendes.com"
+title: "Matemàtiques Batxillerat Científic-Tecnològic"
 plugins:
   - jekyll-pdf-embed 
