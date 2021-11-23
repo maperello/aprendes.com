@@ -1,5 +1,5 @@
-title: "aprendes.com"
+title: aprendes.com
 theme: jekyll-theme-modernist
-logo: "aprendes_logo.png"
+logo: "/aprendes_logo.png"
 plugins:
   - jekyll-pdf-embed
