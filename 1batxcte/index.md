@@ -2,9 +2,9 @@
 title: Matemàtiques de Batxillerat Científic-Tecnològic
 ---
 
-# Continguts 1r Any
+# Continguts de 1r Any
 
-1. Lògica i demostració
+1. [Lògica i demostració](log-dem.pdf)
 2. Els nombres reals
 3. Potències i arrels
 4. Polinomis
