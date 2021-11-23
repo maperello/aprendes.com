@@ -1,5 +1,5 @@
-theme: jekyll-theme-modernist
-
 title: "aprendes.com"
+theme: jekyll-theme-modernist
+logo: "aprendes_logo.png"
 plugins:
   - jekyll-pdf-embed
