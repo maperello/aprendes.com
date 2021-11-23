@@ -1,10 +1,12 @@
 ---
 title: Matemàtiques de Batxillerat Científic-Tecnològic
-description: Matemàtiques de 1r de Batxillerat Científic-Tecnològic
-
 ---
 
-# Continguts de 1r Any
+### Matemàtiques Batxillerat Científic-Tecnològic
+
+## Primer Any
+
+# Índex
 
 1. [Lògica i demostració](log-dem.pdf)
 2. Els nombres reals
