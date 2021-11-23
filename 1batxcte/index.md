@@ -1,5 +1,6 @@
 ---
-title: Matemàtiques
+title: Matemàtiques de Batxillerat Científic-Tecnològic
+Subtitle: Primer Any
 ---
 
 # Continguts
