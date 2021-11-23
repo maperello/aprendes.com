@@ -1,3 +1,5 @@
+_config.yml
+
 # Continguts
 
 1. Lògica i demostració
