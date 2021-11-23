@@ -4,4 +4,4 @@ plugins:
   - jekyll-pdf-embed
 
 title: aprendes.com
-logo: "https://github.com/maperello/aprendes.com/blob/main/aprendes_logo.png"
+logo: "/blob/main/aprendes_logo.png"
