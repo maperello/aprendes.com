@@ -4,4 +4,5 @@ plugins:
   - jekyll-pdf-embed
 
 title: aprendes.com
-logo: "/blob/main/aprendes_logo.png"
+logo: "aprendes_logo.png"
+lang: "catalan"
