@@ -9,7 +9,7 @@ title: Matemàtiques de Batxillerat Científic-Tecnològic
 # Índex
 
 1. [Lògica i demostració](log-dem.pdf)
-2. [ls nombres reals](/reals/index.md)
+2. [Els nombres reals](/reals/index.md)
 3. Potències i arrels
 4. Polinomis
 5. Equacions i sistemes d'equacions
