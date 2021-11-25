@@ -4,5 +4,3 @@ plugins:
   - jekyll-pdf-embed
 
 title: "aprendes.com"
-logo: "aprendes_logo.png"
-lang: "catalan"
