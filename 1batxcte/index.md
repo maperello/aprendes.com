@@ -1,7 +1,3 @@
----
-title: Matemàtiques de Batxillerat Científic-Tecnològic
----
-
 ### Matemàtiques Batxillerat Científic-Tecnològic
 
 ## Primer Any
