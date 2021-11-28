@@ -6,6 +6,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 1. [Primer any](1batxcte/index.md)
 2. Segon any
+3. [Proves](proves/index.md)
 
 ## II. Ciències Socials
 
