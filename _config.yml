@@ -1,1 +1,6 @@
 theme: jekyll-theme-modernist
+
+plugins:
+  - jekyll-pdf-embed
+
+title: "aprendes.com"
