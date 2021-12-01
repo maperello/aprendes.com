@@ -1,8 +1,6 @@
----
-Els nombres reals
----
+# Els nombres reals
 
-# Índex
+## Índex
 
 1. [Teoria](realestexteo1.pdf)
 2. [Pràctica](realestexejer1.pdf)
