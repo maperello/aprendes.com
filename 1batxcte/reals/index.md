@@ -1,5 +1,4 @@
 # Els nombres reals
-
 ## Índex
 
 1. [Teoria](realestexteo1.pdf)
