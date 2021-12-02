@@ -6,7 +6,7 @@
 
 1. [Lògica i demostració](logica/index.md)
 2. [Els nombres reals](reals/index.md)
-3. Potències i arrels
+3. [Potències i arrels](potencies_arrels/index.md)
 4. [Polinomis](polinomis/index.md)
 5. Equacions i sistemes d'equacions
 6. Inequacions i sistemes d'inequacions
