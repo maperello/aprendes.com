@@ -5,19 +5,20 @@
 # Índex
 
 1. [Lògica i demostració](logica/index.md)
-2. [Els nombres reals](reals/index.md)
-3. [Potències i arrels](potencies_arrels/index.md)
-4. [Polinomis](polinomis/index.md)
-5. Equacions i sistemes d'equacions
-6. Inequacions i sistemes d'inequacions
-7. Trigonometria
-8. Els nombres complexes
-9. Vectors en el pla
-10. Geometria plana
-11. Còniques
-12. Successions numèriques i límits
-13. Les funcions reals de variable real
-14. Límits i continuïtat de funcions
-15. Introducció al concepte de derivada d'una funció
-16. Estadística descriptiva
-17. Combinatòria i probabilitats
+2. [Conjunts, relacions i aplicaions](conjunts/index)
+3. [Els nombres reals](reals/index.md)
+4. [Potències i arrels](potencies_arrels/index.md)
+5. [Polinomis](polinomis/index.md)
+6. Equacions i sistemes d'equacions
+7. Inequacions i sistemes d'inequacions
+8. Trigonometria
+9. Els nombres complexes
+10. Vectors en el pla
+11. Geometria plana
+12. Còniques
+13. Successions numèriques i límits
+14. Les funcions reals de variable real
+15. Límits i continuïtat de funcions
+16. Introducció al concepte de derivada d'una funció
+17. Estadística descriptiva
+18. Combinatòria i probabilitats
