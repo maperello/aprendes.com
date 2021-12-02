@@ -4,5 +4,5 @@
 1. [Teoria](polinomiostexteo.pdf)
 2. [Pràctica](polinomiostexejer.pdf)
 3. [Exercicis proposats](polinomiostexpro.pdf)
-4. [Tests](polinomiostexexa.pdf)
+4. [Tests](polinomiostexam.pdf)
 
