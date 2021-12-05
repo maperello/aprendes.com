@@ -4,5 +4,5 @@
 1. [Teoria](ecuacionestexteo.pdf)
 2. [Pràctica](ecuacionestexejer.pdf)
 3. [Exercicis proposats](ecuacionestexpro.pdf)
-4. [Tests](ecuacionestexexa.pdf)
+4. [Tests](ecuacionestexam.pdf)
 
