@@ -10,7 +10,7 @@
 4. [Potències i arrels](potencies_arrels/index.md)
 5. [Polinomis](polinomis/index.md)
 6. [Equacions, inequacions i sistemes d'equacions i d'inequacions](equa_ineq_sist/index.md)
-7. Trigonometria
+7. [Trigonometria](trigonometria/index.md)
 8. Els nombres complexes
 9. Vectors en el pla
 10. Geometria plana
