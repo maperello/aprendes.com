@@ -1,3 +1,3 @@
 ## Índex
 
-1. [Mostra](functeo.htm)
+1. [Mostra](funcTeo.html)
