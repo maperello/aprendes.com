@@ -1,0 +1,44 @@
+/* CSS for left navigation bar */
+
+.ltx_page_navbar {
+    display:block!important; position:fixed; left:0px; top:0px; width:290px;
+    margin:0em;
+    padding:1em;
+    font-size: 14px;
+    /* border: 1px solid; */
+    /* border-radius: 5px; */
+    overflow-y: auto;
+    /* max-height: 95vh; */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.ltx_page_navbar ul {
+    margin-left:-2em; }
+
+.ltx_page_main {
+    position:absolute; left:310px; top:0px; right:2px;
+    margin:0px; padding:1em 3em 1em 2em;
+    border:1px;
+    border-style: none none none solid;
+    /* width:70%; */
+}
+
+
+@media screen and (max-width: 1310px) {
+  .ltx_page_main {
+    left:0px;
+  }
+  .ltx_page_navbar {
+      visibility: hidden;
+  }
+}
+
+@media screen and (min-width: 1310px) {
+  .ltx_page_main {
+    left:310px;
+  }
+  .ltx_page_navbar {
+      visibility: visible;
+  }
+} 
