@@ -19,7 +19,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 # Matemàtiques d'Universitat
 
-1. Àlgebra Lineal
+1. {Àlgebra Lineal](alg-lin/algebraLineal.html)
 2. Anàlisi Matemàtic
 3. Geometria lineal
 4. Equacions Diferencials
