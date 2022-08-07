@@ -5,7 +5,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 ## I. Científic-Tecnològic
 
 1. [Primer any](1batxcte/index.md)
-2. [Segon any](2batxcte/index.md)
+2. Segon Any
 
 ## II. Ciències Socials
 
@@ -19,7 +19,7 @@ Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 # Matemàtiques d'Universitat
 
-1. [Àlgebra Lineal](alg-lin/algebraLineal.html)
+1. Àlgebra Lineal
 2. Anàlisi Matemàtic
 3. Geometria lineal
 4. Equacions Diferencials
