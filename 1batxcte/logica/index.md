@@ -1,4 +1,4 @@
-# Lògica i demostració
+# Lògica, Raonament i demostració
 
 ## Índex
 
