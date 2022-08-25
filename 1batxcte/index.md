@@ -4,8 +4,8 @@
 
 # Índex
 
-1. [Lògica i demostració](logica/index.md)
-2. [Conjunts, relacions i aplicacions](conjunts/index)
+1. [Lògica, Raonament i Demostració](logica/index.md)
+2. [Conjunts, Relacions i Aplicacions](conjunts/index)
 3. Els nombres reals
 4. Potències i arrels
 5. Polinomis
