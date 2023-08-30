@@ -1,4 +1,4 @@
-Material didàctic publicat pel professor Miquel Àngel Perelló.
+En construcció: Material didàctic publicat pel professor Miquel Àngel Perelló.
 
 # Matemàtiques de Batxillerat
 
